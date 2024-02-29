@@ -3,7 +3,7 @@ function z35() {
  }
  
  function z36() {
-    window.open("z236_Mur.html", "okienko_z36","toolbar=no, directories=no, menubar=no, height=800, width=900, top=350, left=600");
+    window.open("z36_Mur.html", "okienko_z36","toolbar=no, directories=no, menubar=no, height=800, width=900, top=350, left=600");
  }
  
  function z37() {
