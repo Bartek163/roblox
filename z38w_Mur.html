@@ -20,18 +20,18 @@
         var l1=7, l2=14, l3=8, l4=12;
         document.write("<h2> Moje nazwisko to: Bartosz Murawski <br> liczba 1= "+l1+" <br> liczba 2= "+l2+" <br> liczba 3= "+l3+" <br> liczba 4= "+l4+" <br></h2>" );
         
-        document.write("<h3> ----MENU---- <br> 7-wyświetlenie teorii o operatorach <br> 28-czy liczba należy do przedziału("+l1+";"+l2+") <br> 66-czy liczb należy do przedziału(-&#8734;;"+l3+") lub ["+l4+";+&#8734;)</h3>");
+        document.write("<h3> ----MENU---- <br> 3-wyświetlenie teorii o operatorach <br> 29-czy liczba należy do przedziału("+l1+";"+l2+") <br> 58-czy liczb należy do przedziału(-&#8734;;"+l3+") lub ["+l4+";+&#8734;)</h3>");
         
         var opcja=parseFloat(prompt("Podaj opcje= "));
 
         if(opcja==3){
-            document.write("<h2>Jesteś w opcja 7 --> teoria");
-        }else if((opcja>6)&&(opcja<13)){
-            document.write("<h2>Jesteś w opcja 28 --> przedział");
+            document.write("<h2>Jesteś w opcja 3 --> teoria");
+        }else if((opcja>7)&&(opcja<14)){
+            document.write("<h2>Jesteś w opcja 29 --> przedział");
         }
         
         else if(opcja==58){
-            document.write("<h2>Jesteś w opcja 66 --> teoria");
+            document.write("<h2>Jesteś w opcja 58 --> teoria");
         }else{
             document.write("<h3>Nie ma takiej opcji</h3>");
         }
