@@ -29,3 +29,7 @@
  function z42() {
     window.open("z42w_Mur.html", "okienko_z42","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
  }
+
+ function kod42() {
+    window.open("z42w_Mur_kod.html", "okienko_kod42","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+ }
