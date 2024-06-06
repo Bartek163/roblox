@@ -21,3 +21,7 @@
  function z38w() {
     window.open("z38w_Mur.html", "okienko_z38","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
  }
+
+ function z41() {
+    window.open("z41_Mur.html", "okienko_z41","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
+ }
